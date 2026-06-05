@@ -13,3 +13,5 @@ cargo run --release -- <NUMBER_OF_DISCS>
 # To solve with 10 discs
 cargo run --release -- 10
 ```
+# Demo Video
+[hanoi.webm](https://github.com/user-attachments/assets/0288d8b2-d598-4c1c-925b-688b0084b92f)
